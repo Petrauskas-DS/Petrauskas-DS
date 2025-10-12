@@ -8,4 +8,3 @@
 - 📫 How to reach me: on the mountain
 - 😄 Pronouns: no
 - ⚡ Fun fact: Hate tea and coffee
--->
