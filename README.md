@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with startup ideas
 - 💬 Ask me about West Bromwich Albion
 - 📫 How to reach me: on the mountain
-- 😄 Pronouns: no
 - ⚡ Fun fact: Hate tea and coffee
