@@ -7,13 +7,25 @@ Open to roles combining commercial strategy + analytics at fast-moving, data/tec
 ## 🔧 What I work with
 `SQL` `Python` `Snowflake` `Power BI` `Random Forest / XGBoost / GLMs` `Claude Code` `Replit`
 
-## 📌 Projects
+## 📌 Featured Projects
 
-- **[HeliIntel](link)** — Competitive pricing intelligence platform, tracking 13 heli-ski competitors. Became CMH's ongoing revenue management tool.
-- **[Spora](link)** — Gamified habit-building app, published on Google Play. Built to learn AI-assisted app development end to end.
-- **[Calgary Property Valuation](link)** — Random Forest / XGBoost / KNN house-price model (MSc coursework).
-- **[Oil Price & Sports Forecasting](link)** — GLMs, neural nets, and Monte Carlo simulation.
-- **[Olist E-Commerce Analytics](link)** — SQL database + queries generating e-commerce KPIs.
+- **[HeliIntel](https://github.com/Petrauskas-DS/HeliIntel)** — Competitive pricing intelligence platform, tracking 13 heli-ski competitors. Became CMH's ongoing revenue management tool.
+- **[Spora](https://github.com/Petrauskas-DS/spora_replit)** — Gamified habit-building app, published on Google Play. Built to learn AI-assisted app development end to end.
+  - [Wireframes](https://github.com/Petrauskas-DS/Sporahabitbuildingappwireframes) · [Stats/Design](https://github.com/Petrauskas-DS/Spora_Stats_Design) · [Original fork source](https://github.com/ChadNeald/spora)
+- **[Calgary Property Valuation](https://github.com/Petrauskas-DS/Calgary_Property_Values_Machine_Learning_Analysis)** — Random Forest / XGBoost / KNN house-price model (MSc coursework).
+- **[Oil Price & Sports Forecasting](https://github.com/Petrauskas-DS/Neural-Nets-Oil-Price-Forecasting)** — Neural nets and forecasting; see also **[World Cup Modelling](https://github.com/Petrauskas-DS/world_cup_modelling)** (Poisson/GLM + Monte Carlo simulation).
+- **[Olist E-Commerce Analytics](https://github.com/Petrauskas-DS/olist_ecommerce_funnel_analysis)** — SQL database + queries generating e-commerce KPIs.
+
+## 📂 Other Repos
+
+- [Crime-Data-Chicago-Python](https://github.com/Petrauskas-DS/Crime-Data-Chicago-Python)
+- [uoc_ML_607_assignments](https://github.com/Petrauskas-DS/uoc_ML_607_assignments)
+- [mnist-spam-classification](https://github.com/Petrauskas-DS/mnist-spam-classification)
+- [Sleep-Efficiency-R-Analysis](https://github.com/Petrauskas-DS/Sleep-Efficiency-R-Analysis)
+- [DB-Management-UN-Happiness-Dataset](https://github.com/Petrauskas-DS/DB-Management-UN-Happiness-Dataset)
+- [Python-CAPM-Chip-Stocks](https://github.com/Petrauskas-DS/Python-CAPM-Chip-Stocks)
+- [skills-introduction-to-github](https://github.com/Petrauskas-DS/skills-introduction-to-github)
+- [Data601project (UoC group project)](https://github.com/margarita-gakis/Data601project)
 
 ## 💼 Background
 
