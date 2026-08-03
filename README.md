@@ -1,20 +1,37 @@
-# Hi, I'm Chris 👋
+# Hi, I'm Chris 
 
-Revenue & commercial strategy background, now building in data science and analytics. I drove a **40% revenue increase** at CMH Heli-Skiing (Alterra Mountain Company) using SQL/Snowflake analytics, dynamic pricing, and FP&A modelling — then went back to school part-time for an MSc in Data Science to build the technical side properly.
+I'm a Chartered Accountant spent a decade in commercial strategy growing revenue for travel, outdoor and experience based businesses generally — most recently as Revenue & Analytics Manager at CMH Heli-Skiing.
 
-Open to roles combining commercial strategy + analytics at fast-moving, data/tech-driven businesses.
+Along the way I got hooked on what advances in analytics and AI could do for aspects of these businesses — in everything from informing prices to better understanding customers, so I went back to school part-time for an MSc in Data Science. My repos are a mix of that coursework, personal side projects, and stuff I built at CMH (the latter being private).
 
+Recently moved back to the UK (Cheshire) after ten years in North America and looking for the next technical challenge — ideally somewhere I can combine commercial strategy with hands-on data work and building stuff, in the experiences space. 
+
+markdown
 ## 🔧 What I work with
-`SQL` `Python` `Snowflake` `Power BI` `Random Forest / XGBoost / GLMs` `Claude Code` `Replit`
+
+**Data & ML**
+`SQL` `Python` `Snowflake` `ETL` `Random Forest` `XGBoost` `GLMs` `Neural Networks` `Monte Carlo Simulation`
+
+**BI & Reporting**
+`Power BI` `Advanced Excel`
+
+**AI-Assisted Development**
+`Claude Code` `Replit`
+
+**Commercial & Finance**
+`FP&A` `Forecasting & Scenario Modelling` `Pricing Strategy` `Business Valuations` `Audit & Compliance`
+
+**Platforms**
+`Dynamics 365` `Salesforce (familiar)`
 
 ## 📌 Featured Projects
 
-- **[HeliIntel](https://github.com/Petrauskas-DS/HeliIntel)** — Competitive pricing intelligence platform, tracking 13 heli-ski competitors. Became CMH's ongoing revenue management tool.
-- **[Spora](https://github.com/Petrauskas-DS/spora_replit)** — Gamified habit-building app, published on Google Play. Built to learn AI-assisted app development end to end.
+- **HeliIntel** *(private repo)* — Competitive pricing platform tracking 13 heli-ski competitors, built at CMH. It's now the team's ongoing revenue management tool.
+- **Spora** *(private repo — live on Google Play)* — A gamified habit-building app. Started as a collaboration, I've kept building it solo since. Mostly an excuse to properly learn AI-assisted app development.
   - [Wireframes](https://github.com/Petrauskas-DS/Sporahabitbuildingappwireframes) · [Stats/Design](https://github.com/Petrauskas-DS/Spora_Stats_Design) · [Original fork source](https://github.com/ChadNeald/spora)
-- **[Calgary Property Valuation](https://github.com/Petrauskas-DS/Calgary_Property_Values_Machine_Learning_Analysis)** — Random Forest / XGBoost / KNN house-price model (MSc coursework).
-- **[Oil Price & Sports Forecasting](https://github.com/Petrauskas-DS/Neural-Nets-Oil-Price-Forecasting)** — Neural nets and forecasting; see also **[World Cup Modelling](https://github.com/Petrauskas-DS/world_cup_modelling)** (Poisson/GLM + Monte Carlo simulation).
-- **[Olist E-Commerce Analytics](https://github.com/Petrauskas-DS/olist_ecommerce_funnel_analysis)** — SQL database + queries generating e-commerce KPIs.
+- **[Calgary Property Valuation](https://github.com/Petrauskas-DS/Calgary_Property_Values_Machine_Learning_Analysis)** — House-price model comparing Random Forest, XGBoost, and KNN. MSc coursework.
+- **[Oil Price & Sports Forecasting](https://github.com/Petrauskas-DS/Neural-Nets-Oil-Price-Forecasting)** — Neural nets and forecasting. Also see **[World Cup Modelling](https://github.com/Petrauskas-DS/world_cup_modelling)** — Poisson/GLM + Monte Carlo tournament simulation.
+- **[Olist E-Commerce Analytics](https://github.com/Petrauskas-DS/olist_ecommerce_funnel_analysis)** — SQL database built from scratch to generate e-commerce KPIs.
 
 ## 📂 Other Repos
 
@@ -27,11 +44,4 @@ Open to roles combining commercial strategy + analytics at fast-moving, data/tec
 - [skills-introduction-to-github](https://github.com/Petrauskas-DS/skills-introduction-to-github)
 - [Data601project (UoC group project)](https://github.com/margarita-gakis/Data601project)
 
-## 💼 Background
-
-- Revenue & Analytics Manager, **CMH Heliskiing & Summer Adventures** (2023–26)
-- Commercial Programs Director, **The Alpine Club of Canada** — grew revenue 105% in 3 years
-- Chartered Accountant (ICAS 2016, CPA Canada 2021), ex-EY Banking & Capital Markets Assurance
-- MSc Data Science & Analytics, University of Calgary (2024–26) · BSc Economics, Durham (1st Class)
-
-📍 Cheshire, UK · [LinkedIn](https://www.linkedin.com/in/petrchcpa/) · [Portfolio](https://cpetrauskas.carrd.co)
+📍 Cheshire, UK · [LinkedIn](https://www.linkedin.com/in/petrchcpa/)
