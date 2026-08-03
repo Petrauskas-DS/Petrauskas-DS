@@ -1,50 +1,39 @@
 # Christopher Petrauskas
 
-Data Scientist | Revenue Analytics | Probabilistic Modeling | Simulation
+Data Scientist | Revenue Analytics | Probabilistic Modeling
 
-I build quantitative models that support decision-making under uncertainty.  
-My work sits at the intersection of statistical modeling, machine learning, and simulation-based forecasting.
+I work on forecasting and pricing problems, mostly in travel/revenue analytics, where getting calibrated probabilities right matters more than a single confident-sounding number. I also build things end-to-end, including my own mobile app.
 
----
+## Currently
 
-## Current Focus
+- Data analytics work for CMH Heli-Skiing (Snowflake, Power BI, dynamic pricing)
+- Building Spora, a habit-tracking app shipped to Google Play and the App Store
+- Finishing a Master's in Data Science & Analytics
 
-- 🎓 Master’s in Data Science & Analytics  
-- 📊 Probabilistic modeling (GLMs, overdispersion diagnostics, calibration)
-- ⚽ Tournament forecasting & Monte Carlo simulation
-- 📈 Revenue optimization & pricing analytics
-- 🤖 Machine learning model evaluation beyond accuracy (log-loss, Brier score)
+## Professional Work
 
----
+**Market Intelligence Platform - CMH Heli-Skiing**
+Built a platform automating competitive analysis for CMH Heli-Skiing (the world's largest heli-skiing operator), combining web-scraped competitor data with live CRM data to generate dynamic pricing recommendations and self-serve pricing calculators for the sales team.
 
-## Selected Work
+**Revenue & Operations Analytics Platform - CMH Heli-Skiing**
+Built an end-to-end analytics platform on Snowflake and Power BI, turning raw CRM/ERP/web data into dashboards covering revenue, sales funnels, channel performance, booking pace, and guest check-in, replacing fragmented reporting with one decision-support system.
 
-- **FIFA World Cup 2026 Prediction Model**  
-  Goal-based modeling, calibration analysis, and full tournament Monte Carlo simulation.
+## Selected Projects
 
-- **Revenue & Pricing Analytics Projects**  
-  Demand forecasting, margin analysis, and structured decision modeling.
+**Spora**
+A habit-tracking app based on a nature-inspired idea - habits grow like a mycelium network instead of a checklist. Built with a cofounder using React Native/Expo; I owned product design, UX, architecture, and analytics, and handled testing and release to both app stores.
 
-More projects available in pinned repositories.
+**FIFA World Cup 2026 Forecasting Model**
+Poisson/Negative Binomial goal models plus Monte Carlo tournament simulation, evaluated on calibration (log-loss, Brier score) rather than raw accuracy.
 
----
+**Calgary Property Value Prediction**
+ML pipeline on ~10M rows of City of Calgary parcel data. KNN (R-squared ~ 0.83) outperformed linear baselines (~0.72), showing location dominates valuation.
 
-## Technical Stack
+**Olist E-Commerce SQL Analytics**
+PostgreSQL database built from scratch on the Olist dataset, with multi-table joins, CTEs, and window functions producing revenue, delivery, and seller KPIs.
 
-- Python (pandas, NumPy, scikit-learn, statsmodels)
-- SQL
-- Power BI
-- Statistical modeling & GLMs
-- Model calibration & probability evaluation
-- Simulation-based forecasting
+More in my pinned repos below.
 
----
+## Tools
 
-## Philosophy
-
-I’m interested in problems where uncertainty matters and probabilities must be taken seriously.  
-Well-calibrated models and structured simulation are more valuable than high headline accuracy.
-
----
-
-If you're working on applied modeling, forecasting, or decision systems, feel free to connect.
+Python (pandas, scikit-learn, statsmodels), SQL, Snowflake, Power BI, React Native/Expo
