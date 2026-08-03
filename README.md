@@ -6,7 +6,6 @@ Along the way I got hooked on what advances in analytics and AI could do for asp
 
 Recently moved back to the UK (Cheshire) after ten years in North America and looking for the next technical challenge — ideally somewhere I can combine commercial strategy with hands-on data work and building stuff, in the experiences space. 
 
-markdown
 ## 🔧 What I work with
 
 **Data & ML**
