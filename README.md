@@ -1,7 +1,6 @@
 # Hi, I'm Chris 
-I'm a Chartered Accountant spent a decade in commercial strategy growing revenue for travel, outdoor and experience based businesses generally — most recently as Revenue & Analytics Manager at CMH Heli-Skiing.
-Along the way I got hooked on what advances in analytics and AI could do for aspects of these businesses — in everything from informing prices to better understanding customers, so I went back to school part-time for an MSc in Data Science. My repos are a mix of that coursework, personal side projects, and stuff I built at CMH (the latter being private).
-Recently moved back to the UK (Cheshire) after ten years in North America and looking for the next technical challenge — ideally somewhere I can combine commercial strategy with hands-on data work and building stuff, in the experiences space. 
+I'm a Chartered Accountant who spent a decade in commercial strategy growing revenue for travel, outdoor and experience based businesses — most recently as Revenue & Analytics Manager at CMH Heli-Skiing and Summer Adventures, part of Alterra Mountain Company.
+Along the way I became fascinated by what new technology — AI, analytics, big data — could bring to commercial growth, which led me to a part-time MSc in Data Science & Analytics at the University of Calgary, studying during evenings on top of full-time work. My repos are a mix of that coursework, collaborative & personal side projects, and stuff I built at CMH (the latter being private).
 
 ## 🔧 What I work with
 **Data & ML**
