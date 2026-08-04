@@ -27,14 +27,14 @@ Along the way I became fascinated by what new technology — AI, analytics, big 
 - **[Olist E-Commerce Analytics](https://github.com/Petrauskas-DS/olist-ecommerce-funnel-analysis)** — SQL database built from scratch to generate e-commerce KPIs.
 
 ## 📂 Other Repos
-- **[crime-data-chicago-python](https://github.com/Petrauskas-DS/crime-data-chicago-python)** — DATA 601 group project analyzing Chicago crime data; my contribution was geospatial analysis using Folium.
-- **[uoc-ml-607](https://github.com/Petrauskas-DS/uoc-ml-607)** — Assignments from DATA 607 Machine Learning and Stat Methods at University of Calgary.
-- **[mnist-spam-classification](https://github.com/Petrauskas-DS/mnist-spam-classification)** — Comparative evaluation of ML models on image (Fashion-MNIST) and text (SMS spam) classification using cross-validation, feature engineering, and vectorization.
-- **[sleep-efficiency-r-analysis](https://github.com/Petrauskas-DS/sleep-efficiency-r-analysis)** — DATA 602 group project; my contribution was regression analysis in R.
-- **[db-management-un-happiness](https://github.com/Petrauskas-DS/db-management-un-happiness)** — DATA 604 group project on database management, using the UN Happiness dataset.
-- **[capm-chip-equities-python](https://github.com/Petrauskas-DS/capm-chip-equities-python)** — Individual project applying CAPM in Python to Nvidia vs. Intel.
-- **[skills-introduction-to-github](https://github.com/Petrauskas-DS/skills-introduction-to-github)** — GitHub Skills exercise: Introduction to GitHub.
-- **[Data601project (UoC group project)](https://github.com/margarita-gakis/Data601project)** — Group repo for the DATA 601 project (hosted under a teammate's account).
+- **[Crime Data Chicago (Python)](https://github.com/Petrauskas-DS/crime-data-chicago-python)** — DATA 601 group project analyzing Chicago crime data; my contribution was geospatial analysis using Folium.
+- **[UoC ML 607 Assignments](https://github.com/Petrauskas-DS/uoc-ml-607)** — Assignments from DATA 607 Machine Learning and Stat Methods at University of Calgary.
+- **[MNIST & Spam Classification](https://github.com/Petrauskas-DS/mnist-spam-classification)** — Comparative evaluation of ML models on image (Fashion-MNIST) and text (SMS spam) classification using cross-validation, feature engineering, and vectorization.
+- **[Sleep Efficiency (R Analysis)](https://github.com/Petrauskas-DS/sleep-efficiency-r-analysis)** — DATA 602 group project; my contribution was regression analysis in R.
+- **[DB Management: UN Happiness](https://github.com/Petrauskas-DS/db-management-un-happiness)** — DATA 604 group project on database management, using the UN Happiness dataset.
+- **[CAPM Chip Equities (Python)](https://github.com/Petrauskas-DS/capm-chip-equities-python)** — Individual project applying CAPM in Python to Nvidia vs. Intel.
+- **[Skills: Introduction to GitHub](https://github.com/Petrauskas-DS/skills-introduction-to-github)** — GitHub Skills exercise: Introduction to GitHub.
+- **[Data601 Project (UoC group project)](https://github.com/margarita-gakis/Data601project)** — Group repo for the DATA 601 project (hosted under a teammate's account).
 
 📍 Cheshire, UK · [LinkedIn](https://www.linkedin.com/in/petrchcpa/)
 
