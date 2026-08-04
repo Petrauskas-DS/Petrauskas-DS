@@ -19,8 +19,8 @@ Along the way I became fascinated by what new technology — AI, analytics, big 
 `Dynamics 365` `Salesforce (familiar)`
 
 ## 📌 Featured Projects
-- **HeliIntel** *(private repo)* — Competitive pricing platform tracking 13 heli-ski competitors, built at CMH. It's now the team's ongoing revenue management tool.
-- **Spora** *(private repo — live on Google Play)* — A gamified habit-building app. Started as a collaboration, I've kept building it solo since. Mostly an excuse to properly learn AI-assisted app development.
+- **HeliIntel** — Competitive pricing platform tracking 13 heli-ski competitors, built at CMH. It's now the team's ongoing revenue management tool.
+- **Spora** *(previously published to Google Play)* — A gamified habit-building app. Started as a collaboration, I've kept building it solo since. Mostly an excuse to properly learn AI-assisted app development.
   - [Wireframes](https://github.com/Petrauskas-DS/spora-wireframes) · [Replit version](https://github.com/Petrauskas-DS/spora-replit) · [Original fork source](https://github.com/ChadNeald/spora)
 - **[Calgary Property Valuation](https://github.com/Petrauskas-DS/calgary-property-values-machine-learning)** — House-price model comparing Random Forest, XGBoost, and KNN. MSc coursework.
 - **[Oil Price & Sports Forecasting](https://github.com/Petrauskas-DS/neural-nets-oil-price-forecasting)** — Neural nets and forecasting. Also see **[World Cup Modelling](https://github.com/Petrauskas-DS/wc26-predictive-modelling-ml-monte-carlo)** — Poisson/GLM + Monte Carlo tournament simulation.
