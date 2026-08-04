@@ -25,8 +25,6 @@ Along the way I became fascinated by what new technology — AI, analytics, big 
 - **[Calgary Property Valuation](https://github.com/Petrauskas-DS/calgary-property-values-machine-learning)** — House-price model comparing Random Forest, XGBoost, and KNN. MSc coursework.
 - **[Oil Price & Sports Forecasting](https://github.com/Petrauskas-DS/neural-nets-oil-price-forecasting)** — Neural nets and forecasting. Also see **[World Cup Modelling](https://github.com/Petrauskas-DS/wc26-predictive-modelling-ml-monte-carlo)** — Poisson/GLM + Monte Carlo tournament simulation.
 - **[Olist E-Commerce Analytics](https://github.com/Petrauskas-DS/olist-ecommerce-funnel-analysis)** — SQL database built from scratch to generate e-commerce KPIs.
-
-## 📂 Other Repos
 - **[Crime Data Chicago (Python)](https://github.com/Petrauskas-DS/crime-data-chicago-python)** — DATA 601 group project analyzing Chicago crime data; my contribution was geospatial analysis using Folium.
 - **[UoC ML 607 Assignments](https://github.com/Petrauskas-DS/uoc-ml-607)** — Assignments from DATA 607 Machine Learning and Stat Methods at University of Calgary.
 - **[MNIST & Spam Classification](https://github.com/Petrauskas-DS/mnist-spam-classification)** — Comparative evaluation of ML models on image (Fashion-MNIST) and text (SMS spam) classification using cross-validation, feature engineering, and vectorization.
