@@ -21,19 +21,21 @@ Along the way I became fascinated by what new technology — AI, analytics, big 
 ## 📌 Featured Projects
 - **HeliIntel** *(private repo)* — Competitive pricing platform tracking 13 heli-ski competitors, built at CMH. It's now the team's ongoing revenue management tool.
 - **Spora** *(private repo — live on Google Play)* — A gamified habit-building app. Started as a collaboration, I've kept building it solo since. Mostly an excuse to properly learn AI-assisted app development.
-  - [Wireframes](https://github.com/Petrauskas-DS/spora-wireframes) · [Stats/Design](https://github.com/Petrauskas-DS/Spora_Stats_Design) · [Original fork source](https://github.com/ChadNeald/spora)
+  - [Wireframes](https://github.com/Petrauskas-DS/spora-wireframes) · [Replit version](https://github.com/Petrauskas-DS/spora-replit) · [Original fork source](https://github.com/ChadNeald/spora)
 - **[Calgary Property Valuation](https://github.com/Petrauskas-DS/calgary-property-values-machine-learning)** — House-price model comparing Random Forest, XGBoost, and KNN. MSc coursework.
 - **[Oil Price & Sports Forecasting](https://github.com/Petrauskas-DS/neural-nets-oil-price-forecasting)** — Neural nets and forecasting. Also see **[World Cup Modelling](https://github.com/Petrauskas-DS/wc26-predictive-modelling-ml-monte-carlo)** — Poisson/GLM + Monte Carlo tournament simulation.
 - **[Olist E-Commerce Analytics](https://github.com/Petrauskas-DS/olist-ecommerce-funnel-analysis)** — SQL database built from scratch to generate e-commerce KPIs.
 
 ## 📂 Other Repos
-- [crime-data-chicago-python](https://github.com/Petrauskas-DS/crime-data-chicago-python)
-- [uoc-ml-607](https://github.com/Petrauskas-DS/uoc-ml-607)
-- [mnist-spam-classification](https://github.com/Petrauskas-DS/mnist-spam-classification)
-- [sleep-efficiency-r-analysis](https://github.com/Petrauskas-DS/sleep-efficiency-r-analysis)
-- [db-management-un-happiness](https://github.com/Petrauskas-DS/db-management-un-happiness)
-- [capm-chip-equities-python](https://github.com/Petrauskas-DS/capm-chip-equities-python)
-- [skills-introduction-to-github](https://github.com/Petrauskas-DS/skills-introduction-to-github)
-- [Data601project (UoC group project)](https://github.com/margarita-gakis/Data601project)
+- **[crime-data-chicago-python](https://github.com/Petrauskas-DS/crime-data-chicago-python)** — DATA 601 group project analyzing Chicago crime data; my contribution was geospatial analysis using Folium.
+- **[uoc-ml-607](https://github.com/Petrauskas-DS/uoc-ml-607)** — Assignments from DATA 607 Machine Learning and Stat Methods at University of Calgary.
+- **[mnist-spam-classification](https://github.com/Petrauskas-DS/mnist-spam-classification)** — Comparative evaluation of ML models on image (Fashion-MNIST) and text (SMS spam) classification using cross-validation, feature engineering, and vectorization.
+- **[sleep-efficiency-r-analysis](https://github.com/Petrauskas-DS/sleep-efficiency-r-analysis)** — DATA 602 group project; my contribution was regression analysis in R.
+- **[db-management-un-happiness](https://github.com/Petrauskas-DS/db-management-un-happiness)** — DATA 604 group project on database management, using the UN Happiness dataset.
+- **[capm-chip-equities-python](https://github.com/Petrauskas-DS/capm-chip-equities-python)** — Individual project applying CAPM in Python to Nvidia vs. Intel.
+- **[skills-introduction-to-github](https://github.com/Petrauskas-DS/skills-introduction-to-github)** — GitHub Skills exercise: Introduction to GitHub.
+- **[Data601project (UoC group project)](https://github.com/margarita-gakis/Data601project)** — Group repo for the DATA 601 project (hosted under a teammate's account).
+
+📍 Cheshire, UK · [LinkedIn](https://www.linkedin.com/in/petrchcpa/)
 
 📍 Cheshire, UK · [LinkedIn](https://www.linkedin.com/in/petrchcpa/)
