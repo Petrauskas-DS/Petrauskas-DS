@@ -37,5 +37,3 @@ Along the way I became fascinated by what new technology — AI, analytics, big 
 - **[Data601 Project (UoC group project)](https://github.com/margarita-gakis/Data601project)** — Group repo for the DATA 601 project (hosted under a teammate's account).
 
 📍 Cheshire, UK · [LinkedIn](https://www.linkedin.com/in/petrchcpa/)
-
-📍 Cheshire, UK · [LinkedIn](https://www.linkedin.com/in/petrchcpa/)
